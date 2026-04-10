@@ -3,7 +3,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-> A lightweight, blazing-fast PyTorch implementation of **Fast Motion Deblurring using Conditional Generative Adversarial Networks** (QcGAN).
+> A lightweight, blazing-fast PyTorch implementation of **Quick deblurring using cGAN** (QcGAN).
 
 This repository contains the complete training and modeling pipeline to perform blind motion deblurring on single images. By leveraging MobileNet-inspired depthwise separable convolutions, this model achieves state-of-the-art structural similarity and visual appearance while radically reducing parameter count and inference time.
 
