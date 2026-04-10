@@ -9,6 +9,9 @@ This repository contains the complete training and modeling pipeline to perform 
 
 ---
 
+<img width="551" height="250" alt="image" src="https://github.com/user-attachments/assets/4e0c29e7-c7c4-4a87-bd99-973c693faecf" />
+
+
 ## ✨ Key Features
 
 * **Lightweight Architecture**: Replaces standard convolutions with **Depthwise Separable Convolutions** in the ResNet blocks, reducing the model size by 3-60x compared to competitors.
@@ -17,6 +20,9 @@ This repository contains the complete training and modeling pipeline to perform 
 * **Real-Time Ready**: Designed specifically with edge-devices and resource-constrained environments (like robotics and mobile) in mind.
 
 ---
+
+<img width="551" height="250" alt="image" src="https://github.com/user-attachments/assets/bc8462c6-ec47-4e45-93f1-be4dca3f89b3" />
+
 
 ## 📂 Repository Structure
 
